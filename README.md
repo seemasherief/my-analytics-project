@@ -4,6 +4,7 @@ Tools used:
 - Python
 - SQL
 - Data visualization
+  
 Goals:
 Identify top selling products
 Understand customer purchase behavior
