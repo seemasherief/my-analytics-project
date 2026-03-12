@@ -5,7 +5,7 @@ Tools used:
 - SQL
 - Data visualization
   
-Goals:
-Identify top selling products
-Understand customer purchase behavior
-Analyze revenue trends
+## Goals:
+- Identify top selling products
+- Understand customer purchase behavior
+- Analyze revenue trends
